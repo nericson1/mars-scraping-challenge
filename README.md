@@ -1,7 +1,11 @@
 # mars-scraping-challenge
 
 ## Description
-This repository is constructed in two primary parts. Part One is 'part_1_mars_news.ipynb' and contains the results of using splinter and BeautifulSoup to scrape specific information off the website linked here: https://static.bc-edx.com/data/web/mars_news/index.html. Part Two is 'part_2_mars_weather.ipynb' and contains the results of using splinter and BeautifulSoup to scrape information from a table off the website linked here: https://static.bc-edx.com/data/web/mars_facts/temperature.html. Using this scraped information, further analysis was done to determine temperature and pressure patterns throughout the year.
+This repository is constructed in two primary parts. Part One is `part_1_mars_news.ipynb` and contains the results of using splinter and BeautifulSoup to scrape specific information off the website linked here: https://static.bc-edx.com/data/web/mars_news/index.html. 
+
+Part Two is `part_2_mars_weather.ipynb` and contains the results of using splinter and BeautifulSoup to scrape information from a table off the website linked here: https://static.bc-edx.com/data/web/mars_facts/temperature.html. 
+
+Using this scraped information, further analysis was done to determine temperature and pressure patterns throughout the year.
 
 ## References
 ### Scrape an HTML table using BeautifulSoup into Pandas
